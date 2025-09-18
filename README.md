@@ -76,6 +76,7 @@ Specification Driven Development emphasizes creating clear, executable specifica
 
 ### Specific MCP Server Tools
 
+- **[Context7](https://github.com/upstash/context7)** - Up-to-date code documentation for LLMs and AI code editors  ![GitHub stars](https://img.shields.io/github/stars/upstash/context7)
 - **[Excel MCP Server](https://github.com/haris-musa/excel-mcp-server)** - A Model Context Protocol server for Excel file manipulation. ![GitHub stars](https://img.shields.io/github/stars/haris-musa/excel-mcp-server)
 - **[Qdrant MCP Server](https://github.com/qdrant/mcp-server-qdrant)** - An official Qdrant Model Context Protocol (MCP) server implementation. ![GitHub stars](https://img.shields.io/github/stars/qdrant/mcp-server-qdrant)
 - **[Exa MCP Server](https://github.com/exa-labs/exa-mcp-server)** - Exa Web Search API MCP (Model Context Protocol) server. ![GitHub stars](https://img.shields.io/github/stars/exa-labs/exa-mcp-server)
