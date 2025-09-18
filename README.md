@@ -68,14 +68,9 @@ Specification Driven Development emphasizes creating clear, executable specifica
 
 ## MCP Servers
 
-### Popular MCP Server Implementations
-
 - **[Awesome MCP Servers](https://github.com/wong2/awesome-mcp-servers)** - A curated list of Model Context Protocol (MCP) servers. ![GitHub stars](https://img.shields.io/github/stars/wong2/awesome-mcp-servers)
 - **[Awesome MCP Servers (Alternative)](https://github.com/appcypher/awesome-mcp-servers)** - Another curated list of Model Context Protocol servers with extensive collection. ![GitHub stars](https://img.shields.io/github/stars/appcypher/awesome-mcp-servers)
 - **[MCP Registry](https://github.com/modelcontextprotocol/registry)** - A community driven registry service for Model Context Protocol (MCP) servers. ![GitHub stars](https://img.shields.io/github/stars/modelcontextprotocol/registry)
-
-### Specific MCP Server Tools
-
 - **[Context7](https://github.com/upstash/context7)** - Up-to-date code documentation for LLMs and AI code editors  ![GitHub stars](https://img.shields.io/github/stars/upstash/context7)
 - **[Excel MCP Server](https://github.com/haris-musa/excel-mcp-server)** - A Model Context Protocol server for Excel file manipulation. ![GitHub stars](https://img.shields.io/github/stars/haris-musa/excel-mcp-server)
 - **[Qdrant MCP Server](https://github.com/qdrant/mcp-server-qdrant)** - An official Qdrant Model Context Protocol (MCP) server implementation. ![GitHub stars](https://img.shields.io/github/stars/qdrant/mcp-server-qdrant)
@@ -101,7 +96,7 @@ Specification Driven Development emphasizes creating clear, executable specifica
 - **Insomnia Designer** - Collaborative API design platform
 - **Postman** - API development environment with specification support
 
-## Blog Posts
+## Blog Posts & Videos
 
 ### Getting Started
 - [API-First Development: Benefits and Best Practices](https://swagger.io/blog/api-development/api-first-development/)
