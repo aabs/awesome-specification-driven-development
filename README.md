@@ -21,7 +21,8 @@ Specification Driven Development emphasizes creating clear, executable specifica
 
 ### Specification-First Development Frameworks
 
-- **[Spec-Kit](https://github.com/plaesy/spec-kit)** - A revolutionary constitutional specification-driven development framework from raw ideas into solution. ![GitHub stars](https://img.shields.io/github/stars/plaesy/spec-kit)
+- **[GitHub Spec-Kit](https://github.com/github/spec-kit)** - A Toolkit to help you get started with Spec-Driven Development. ![GitHub stars](https://img.shields.io/github/stars/github/spec-kit)
+- **[Pleasy Spec-Kit](https://github.com/plaesy/spec-kit)** - A revolutionary constitutional specification-driven development framework from raw ideas into solution. ![GitHub stars](https://img.shields.io/github/stars/plaesy/spec-kit)
 - **[SpecPulse](https://github.com/specpulse/specpulse)** - Specification-Driven Development (SDD) Framework for Python. ![GitHub stars](https://img.shields.io/github/stars/specpulse/specpulse)
 - **[Falcon Heavy](https://github.com/NotJustAToy/falcon-heavy)** - Framework for building app backends and microservices by specification-first API design approach based on OpenAPI Specification 3. ![GitHub stars](https://img.shields.io/github/stars/NotJustAToy/falcon-heavy)
 
