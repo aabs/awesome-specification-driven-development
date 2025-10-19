@@ -22,6 +22,7 @@ Specification Driven Development emphasizes creating clear, executable specifica
 ### Specification-First Development Frameworks
 
 - **[GitHub Spec-Kit](https://github.com/github/spec-kit)** - A Toolkit to help you get started with Spec-Driven Development. ![GitHub stars](https://img.shields.io/github/stars/github/spec-kit)
+- **[OpenSpec](https://github.com/Fission-AI/OpenSpec)** - OpenSpec aligns humans and AI coding assistants with spec-driven development so you agree on what to build before any code is written. ![GitHub stars](https://img.shields.io/github/stars/Fission-AI/OpenSpec)
 - **[SpecPulse](https://github.com/specpulse/specpulse)** - Specification-Driven Development (SDD) Framework for Python. ![GitHub stars](https://img.shields.io/github/stars/specpulse/specpulse)
 - **[Falcon Heavy](https://github.com/NotJustAToy/falcon-heavy)** - Framework for building app backends and microservices by specification-first API design approach based on OpenAPI Specification 3. ![GitHub stars](https://img.shields.io/github/stars/NotJustAToy/falcon-heavy)
 
