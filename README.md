@@ -42,6 +42,8 @@ Specification Driven Development emphasizes creating clear, executable specifica
 
 ## Theory and Methodologies
 
+- **[A Plan-Do-Check-Act Framework for AI Code Generation](https://www.infoq.com/articles/PDCA-AI-code-generation/)**
+
 ### Core Concepts
 - **Specification by Example** - A collaborative approach to defining requirements and business-oriented functional tests
 - **Contract-Driven Development** - Development approach where API contracts are defined first and used to drive implementation
