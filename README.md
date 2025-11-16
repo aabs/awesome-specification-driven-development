@@ -41,7 +41,7 @@ Specification Driven Development emphasizes creating clear, executable specifica
 - **[Mamba](https://github.com/nestorsalceda/mamba)** - The definitive testing tool for Python. Born under the banner of Behavior Driven Development (BDD). ![GitHub stars](https://img.shields.io/github/stars/nestorsalceda/mamba)
 
 ## Theory and Methodologies
-
+- **[Augmented Coding Patterns](https://lexler.github.io/augmented-coding-patterns/)** - A collection of emerging patterns, anti-patterns and obstacles for effective AI-augmented software development.
 - **[A Plan-Do-Check-Act Framework for AI Code Generation](https://www.infoq.com/articles/PDCA-AI-code-generation/)**
 
 ### Core Concepts
