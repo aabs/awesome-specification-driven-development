@@ -111,6 +111,7 @@ Specification Driven Development emphasizes creating clear, executable specifica
 - [Building Microservices with Contract Testing](https://martinfowler.com/articles/microservice-testing/)
 - [Domain-Driven Design and Specification Patterns](https://martinfowler.com/bliki/SpecificationPattern.html)
 - [Behavior-Driven Development in Practice](https://cucumber.io/blog/bdd/bdd-vs-tdd/)
+- [Chris Yaowen Zhang - The limits of specification driven development](https://dev.to/chrisywz/the-limits-of-spec-driven-development-3b16)
 
 ## Community
 
