@@ -69,6 +69,7 @@ Specification Driven Development emphasizes creating clear, executable specifica
 ### Specification-Driven Agent Development
 
 - **[DafnckMachine - AGF 2.0](https://github.com/DafnckStudio/DafnckMachine---AGF-2.0)** - Agentic Coding Framework powered by Pheromind – a revolutionary system designed to orchestrate fully autonomous, specification-driven software development. ![GitHub stars](https://img.shields.io/github/stars/DafnckStudio/DafnckMachine---AGF-2.0)
+- **[Kibi](https://github.com/Looted/kibi)** - Keeps project requirements linked to code and tests for AI coding agents, with checks for missing links. ![GitHub stars](https://img.shields.io/github/stars/Looted/kibi)
 
 ## MCP Servers
 
