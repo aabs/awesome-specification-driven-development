@@ -68,6 +68,7 @@ Specification Driven Development emphasizes creating clear, executable specifica
 
 ### Specification-Driven Agent Development
 
+- **[Cage](https://github.com/vitalik1921/cage)** - Deterministic TypeScript contract harness that keeps specifications, implementations, linked tests, and agent review state in sync for Claude Code and Codex workflows. ![GitHub stars](https://img.shields.io/github/stars/vitalik1921/cage)
 - **[DafnckMachine - AGF 2.0](https://github.com/DafnckStudio/DafnckMachine---AGF-2.0)** - Agentic Coding Framework powered by Pheromind – a revolutionary system designed to orchestrate fully autonomous, specification-driven software development. ![GitHub stars](https://img.shields.io/github/stars/DafnckStudio/DafnckMachine---AGF-2.0)
 
 ## MCP Servers
