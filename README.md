@@ -72,17 +72,18 @@ Specification Driven Development emphasizes creating clear, executable specifica
 
 ## MCP Servers
 
+- **[ArXiv MCP Server](https://github.com/blazickjp/arxiv-mcp-server)** - A Model Context Protocol server for searching and analyzing arXiv papers. ![GitHub stars](https://img.shields.io/github/stars/blazickjp/arxiv-mcp-server)
 - **[Awesome MCP Servers](https://github.com/wong2/awesome-mcp-servers)** - A curated list of Model Context Protocol (MCP) servers. ![GitHub stars](https://img.shields.io/github/stars/wong2/awesome-mcp-servers)
 - **[Awesome MCP Servers (Alternative)](https://github.com/appcypher/awesome-mcp-servers)** - Another curated list of Model Context Protocol servers with extensive collection. ![GitHub stars](https://img.shields.io/github/stars/appcypher/awesome-mcp-servers)
-- **[MCP Registry](https://github.com/modelcontextprotocol/registry)** - A community driven registry service for Model Context Protocol (MCP) servers. ![GitHub stars](https://img.shields.io/github/stars/modelcontextprotocol/registry)
 - **[Context7](https://github.com/upstash/context7)** - Up-to-date code documentation for LLMs and AI code editors  ![GitHub stars](https://img.shields.io/github/stars/upstash/context7)
-- **[Excel MCP Server](https://github.com/haris-musa/excel-mcp-server)** - A Model Context Protocol server for Excel file manipulation. ![GitHub stars](https://img.shields.io/github/stars/haris-musa/excel-mcp-server)
-- **[Qdrant MCP Server](https://github.com/qdrant/mcp-server-qdrant)** - An official Qdrant Model Context Protocol (MCP) server implementation. ![GitHub stars](https://img.shields.io/github/stars/qdrant/mcp-server-qdrant)
 - **[Exa MCP Server](https://github.com/exa-labs/exa-mcp-server)** - Exa Web Search API MCP (Model Context Protocol) server. ![GitHub stars](https://img.shields.io/github/stars/exa-labs/exa-mcp-server)
-- **[Markdownify MCP](https://github.com/zcaceres/markdownify-mcp)** - A Model Context Protocol server for converting almost anything to Markdown. ![GitHub stars](https://img.shields.io/github/stars/zcaceres/markdownify-mcp)
-- **[ArXiv MCP Server](https://github.com/blazickjp/arxiv-mcp-server)** - A Model Context Protocol server for searching and analyzing arXiv papers. ![GitHub stars](https://img.shields.io/github/stars/blazickjp/arxiv-mcp-server)
-- **[Microsoft MCP](https://github.com/microsoft/mcp)** - Catalog of official Microsoft MCP (Model Context Protocol) server implementations for AI-powered data access and tool integration. ![GitHub stars](https://img.shields.io/github/stars/microsoft/mcp)
+- **[Excel MCP Server](https://github.com/haris-musa/excel-mcp-server)** - A Model Context Protocol server for Excel file manipulation. ![GitHub stars](https://img.shields.io/github/stars/haris-musa/excel-mcp-server)
 - **[Kubernetes MCP Server](https://github.com/containers/kubernetes-mcp-server)** - Model Context Protocol (MCP) server for Kubernetes and OpenShift. ![GitHub stars](https://img.shields.io/github/stars/containers/kubernetes-mcp-server)
+- **[Markdownify MCP](https://github.com/zcaceres/markdownify-mcp)** - A Model Context Protocol server for converting almost anything to Markdown. ![GitHub stars](https://img.shields.io/github/stars/zcaceres/markdownify-mcp)
+- **[MCP Registry](https://github.com/modelcontextprotocol/registry)** - A community driven registry service for Model Context Protocol (MCP) servers. ![GitHub stars](https://img.shields.io/github/stars/modelcontextprotocol/registry)
+- **[Microsoft MCP](https://github.com/microsoft/mcp)** - Catalog of official Microsoft MCP (Model Context Protocol) server implementations for AI-powered data access and tool integration. ![GitHub stars](https://img.shields.io/github/stars/microsoft/mcp)
+- **[Qdrant MCP Server](https://github.com/qdrant/mcp-server-qdrant)** - An official Qdrant Model Context Protocol (MCP) server implementation. ![GitHub stars](https://img.shields.io/github/stars/qdrant/mcp-server-qdrant)
+- **[Reqode](https://reqode.com)** - Connected, branch-aware requirements and architecture context for external coding and QA agents through MCP, with Findings and test evidence for human review.
 
 ## IDE Support
 
