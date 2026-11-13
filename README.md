@@ -107,6 +107,7 @@ Specification Driven Development emphasizes creating clear, executable specifica
 - [Contract-Driven Development: A Guide](https://docs.pact.io/getting_started/what_is_pact)
 - [Specification by Example: An Introduction](https://gojko.net/books/specification-by-example/)
 - [Spec-driven development: Using Markdown as a programming language when building with AI](https://github.blog/ai-and-ml/generative-ai/spec-driven-development-using-markdown-as-a-programming-language-when-building-with-ai/)
+- [The ticket is the thinking](https://waldo.vanderlore.de/blog/spec-driven-development/)
 
 ### Advanced Topics
 - [Building Microservices with Contract Testing](https://martinfowler.com/articles/microservice-testing/)
