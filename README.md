@@ -68,6 +68,7 @@ Specification Driven Development emphasizes creating clear, executable specifica
 
 ### Specification-Driven Agent Development
 
+- **[100x Engineer Skill](https://github.com/DeadInternetStudios/100x-engineer-skill)** - Specification-driven agent development for Claude Code, Cursor and Codex: requirements and formal properties are stated before coding, checked by a CLI, and recorded as evidence before completion. ![GitHub stars](https://img.shields.io/github/stars/DeadInternetStudios/100x-engineer-skill)
 - **[DafnckMachine - AGF 2.0](https://github.com/DafnckStudio/DafnckMachine---AGF-2.0)** - Agentic Coding Framework powered by Pheromind – a revolutionary system designed to orchestrate fully autonomous, specification-driven software development. ![GitHub stars](https://img.shields.io/github/stars/DafnckStudio/DafnckMachine---AGF-2.0)
 
 ## MCP Servers
